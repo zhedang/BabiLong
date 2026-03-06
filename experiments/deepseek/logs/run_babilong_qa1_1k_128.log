@@ -1,0 +1,144 @@
+[1/128] correct=True empty=False pred=John is in the hallway.
+[2/128] correct=True empty=False pred=Mary is in the bathroom.
+[3/128] correct=True empty=False pred=Sandra is in the kitchen.
+[4/128] correct=True empty=False pred=Sandra is in the hallway.
+[5/128] correct=True empty=False pred=Sandra is in the kitchen.
+[6/128] correct=True empty=False pred=Sandra is in the hallway.
+[7/128] correct=True empty=False pred=Sandra is in the garden.
+[8/128] correct=True empty=False pred=hallway
+[9/128] correct=True empty=False pred=Sandra is in the office.
+[10/128] correct=True empty=False pred=Daniel is in the office.
+[11/128] correct=True empty=False pred=Mary is in the kitchen.
+[12/128] correct=True empty=False pred=Mary is in the garden.
+[13/128] correct=True empty=False pred=Daniel is at the office.
+[14/128] correct=False empty=False pred=Mary is in the kitchen.
+[15/128] correct=True empty=False pred=Mary is in the bedroom.
+[16/128] correct=False empty=False pred=John is in the hallway and then journeys to the kitchen.
+[17/128] correct=False empty=False pred=John is in the hallway and then journeys to the kitchen and the garden.
+[18/128] correct=True empty=False pred=John is in the kitchen.
+[19/128] correct=True empty=False pred=Daniel is in the office.
+[20/128] correct=True empty=False pred=John is in the kitchen.
+[21/128] correct=False empty=False pred=Mary is in the kitchen and then travels to the hallway.
+[22/128] correct=True empty=False pred=John is in the office.
+[23/128] correct=True empty=False pred=John is in the office.
+[24/128] correct=True empty=False pred=Sandra is in the hallway.
+[25/128] correct=True empty=False pred=Daniel is in the bedroom.
+[26/128] correct=True empty=False pred=The bedroom.
+[27/128] correct=True empty=False pred=Mary is in the bedroom.
+[28/128] correct=True empty=False pred=Daniel is in the kitchen.
+[29/128] correct=True empty=False pred=Daniel is in the kitchen.
+[30/128] correct=True empty=False pred=Daniel is in the kitchen.
+[31/128] correct=True empty=False pred=hallway
+[32/128] correct=True empty=False pred=John is in the office.
+[33/128] correct=True empty=False pred=Sandra is in the kitchen.
+[34/128] correct=True empty=False pred=Sandra is in the kitchen.
+[35/128] correct=True empty=False pred=Sandra is in the bathroom.
+[36/128] correct=True empty=False pred=Mary is in the office.
+[37/128] correct=False empty=False pred=Mary is in the buckeye thicket near the river bank and the mouth of the canyon.
+[38/128] correct=True empty=False pred=Mary is in the garden.
+[39/128] correct=True empty=False pred=Sandra is in the kitchen.
+[40/128] correct=True empty=False pred=bedroom
+[41/128] correct=False empty=False pred=Sandra is in the office.
+[42/128] correct=True empty=False pred=Daniel is in the garden.
+[43/128] correct=False empty=False pred=Sandra is in the office.
+[44/128] correct=False empty=False pred=Daniel is in the garden.
+[45/128] correct=True empty=False pred=Daniel is in the garden.
+[46/128] correct=True empty=False pred=Mary is in the kitchen.
+[47/128] correct=True empty=False pred=Daniel is in the hallway.
+[48/128] correct=True empty=False pred=Sandra is in the bathroom.
+[49/128] correct=True empty=False pred=office
+[50/128] correct=True empty=False pred=John is in the bedroom.
+[51/128] correct=False empty=False pred=John is in the hallway.
+[52/128] correct=True empty=False pred=John is in the office.
+[53/128] correct=True empty=False pred=John is in the garden.
+[54/128] correct=True empty=False pred=John is in the garden.
+[55/128] correct=True empty=False pred=Daniel is in the kitchen.
+[56/128] correct=True empty=False pred=Mary went to the bedroom.
+[57/128] correct=True empty=False pred=Mary is in the kitchen.
+[58/128] correct=True empty=False pred=Mary is in the hallway.
+[59/128] correct=True empty=False pred=Daniel is in the garden.
+[60/128] correct=True empty=False pred=Sandra is in the hallway.
+[61/128] correct=True empty=False pred=Sandra is in the hallway.
+[62/128] correct=True empty=False pred=Daniel is in the office.
+[63/128] correct=True empty=False pred=Sandra is in the bathroom.
+[64/128] correct=True empty=False pred=Daniel is in the garden.
+[65/128] correct=True empty=False pred=Daniel is in the garden.
+[66/128] correct=True empty=False pred=John is in the kitchen.
+[67/128] correct=True empty=False pred=John went back to the kitchen.
+[68/128] correct=True empty=False pred=Daniel is in the bathroom.
+[69/128] correct=False empty=False pred=Daniel is in the kitchen.
+[70/128] correct=False empty=False pred=Daniel is in the kitchen.
+[71/128] correct=True empty=False pred=Mary is in the garden.
+[72/128] correct=False empty=False pred=Sandra is in the bedroom.
+[73/128] correct=True empty=False pred=Mary is in the garden.
+[74/128] correct=False empty=False pred=Mary is in the garden.
+[75/128] correct=True empty=False pred=Mary is in the bathroom.
+[76/128] correct=True empty=False pred=Daniel is in the kitchen.
+[77/128] correct=True empty=False pred=kitchen
+[78/128] correct=True empty=False pred=Daniel is in the kitchen.
+[79/128] correct=True empty=False pred=Daniel is in the hallway.
+[80/128] correct=True empty=False pred=Daniel is in the office.
+[81/128] correct=True empty=False pred=John is at the garden.
+[82/128] correct=True empty=False pred=John is in the bathroom.
+[83/128] correct=True empty=False pred=Sandra is in the bedroom.
+[84/128] correct=True empty=False pred=Mary is in the garden.
+[85/128] correct=True empty=False pred=Daniel is in the office.
+[86/128] correct=True empty=False pred=Sandra travelled to the garden.
+[87/128] correct=True empty=False pred=Mary is at the garden.
+[88/128] correct=False empty=False pred=garden
+[89/128] correct=True empty=False pred=Sandra is in the kitchen.
+[90/128] correct=True empty=False pred=Daniel is in the kitchen.
+[91/128] correct=True empty=False pred=Sandra is in the bathroom.
+[92/128] correct=True empty=False pred=John is in the bathroom.
+[93/128] correct=False empty=False pred=Sandra is in the bedroom.
+[94/128] correct=True empty=False pred=Sandra is in the bathroom.
+[95/128] correct=True empty=False pred=Sandra is in the bathroom.
+[96/128] correct=True empty=False pred=John is in the kitchen.
+[97/128] correct=True empty=False pred=Sandra is in the kitchen.
+[98/128] correct=True empty=False pred=Mary is in the kitchen.
+[99/128] correct=True empty=False pred=Mary is in the bedroom.
+[100/128] correct=True empty=False pred=Mary is in the bedroom.
+[101/128] correct=True empty=False pred=Mary is in the bedroom.
+[102/128] correct=True empty=False pred=Sandra is in the bathroom.
+[103/128] correct=True empty=False pred=Mary is in the office.
+[104/128] correct=True empty=False pred=Daniel is in the garden.
+[105/128] correct=True empty=False pred=Daniel is in the garden.
+[106/128] correct=True empty=False pred=Mary is in the hallway.
+[107/128] correct=True empty=False pred=bedroom
+[108/128] correct=True empty=False pred=Daniel is in the bathroom.
+[109/128] correct=True empty=False pred=Daniel is in the office.
+[110/128] correct=True empty=False pred=John is in the bedroom.
+[111/128] correct=False empty=False pred=Daniel is at the office.
+[112/128] correct=True empty=False pred=Daniel is in the bathroom.
+[113/128] correct=True empty=False pred=John is in the kitchen.
+[114/128] correct=False empty=False pred=kitchen
+[115/128] correct=True empty=False pred=Mary is in the kitchen.
+[116/128] correct=True empty=False pred=Sandra is in the garden.
+[117/128] correct=True empty=False pred=office
+[118/128] correct=True empty=False pred=Mary is in the kitchen.
+[119/128] correct=True empty=False pred=Daniel travelled to the bathroom.
+[120/128] correct=False empty=False pred=Daniel is in the garden.
+[121/128] correct=True empty=False pred=Daniel is in the bedroom.
+[122/128] correct=True empty=False pred=Mary is in the bathroom.
+[123/128] correct=True empty=False pred=Daniel is in the bedroom.
+[124/128] correct=True empty=False pred=Daniel is in the hallway.
+[125/128] correct=False empty=False pred=Mary is in the kitchen.
+[126/128] correct=True empty=False pred=The office.
+[127/128] correct=False empty=False pred=John is in the kitchen.
+[128/128] correct=True empty=False pred=Daniel is in the garden.
+
+=== Summary ===
+{
+  "dataset": "/home/himura_shiro/Projects/BabiLong/data/babilong-1k-samples/1k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "deepseek-chat",
+  "num_samples": 128,
+  "correct_count": 108,
+  "accuracy": 0.84375,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "duration_sec": 276.52999544143677,
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n128_deepseek-chat_predictions_20260303_220710.jsonl"
+}
+Saved predictions: /home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n128_deepseek-chat_predictions_20260303_220710.jsonl
+Saved summary: /home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n128_deepseek-chat_summary_20260303_220710.json

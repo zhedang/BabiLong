@@ -1,0 +1,27 @@
+[1/128] correct=True empty=False thinking=False pred=John travelled to the hallway.
+[2/128] correct=False empty=False thinking=False pred=Miss Mary is in a room (presumably her own or the parrot's), sitting in a room with <DW53>
+[3/128] correct=True empty=False thinking=False pred=Sandra journeyed to the kitchen.
+[4/128] correct=False empty=False thinking=False pred=Sandra is in the bathroom.
+[5/128] correct=True empty=False thinking=False pred=Sandra travelled to the kitchen.
+[6/128] correct=False empty=False thinking=False pred=The kitchen
+[7/128] correct=False empty=False thinking=False pred=Sandra is in the kitchen, then the hallway, then the garden.
+[8/128] correct=True empty=False thinking=False pred=Daniel journeyed to the hallway.
+[9/128] correct=False empty=False thinking=False pred=Sandra travelled to the kitchen.
+[10/128] correct=True empty=False thinking=False pred=Daniel journeyed to the office.
+[11/128] correct=True empty=False thinking=False pred=Mary journeyed to the kitchen.
+[12/128] correct=False empty=False thinking=False pred=Mary is the late Mrs. Mary Sneyd, whose miniature portrait of Mr. Mary Saville was bequeat
+[13/128] correct=True empty=False thinking=False pred=Daniel went to the office.
+[14/128] correct=False empty=False thinking=False pred=The text does not specify where Mary is. She is described as having traveled to the kitche
+[15/128] correct=False empty=False thinking=False pred=Mary moved to the garden, the kitchen, and the bedroom.
+[16/128] correct=False empty=False thinking=False pred=John moved to the hallway.
+[17/128] correct=False empty=False thinking=False pred=John is in the hallway, the garden, and the kitchen.
+[18/128] correct=False empty=False thinking=False pred=The hallway
+[19/128] correct=True empty=False thinking=False pred=In the office
+[20/128] correct=True empty=False thinking=False pred=John journeyed to the kitchen.
+[21/128] correct=False empty=False thinking=False pred=Mary is a chambermaid working at a hotel in Lexington.
+[22/128] correct=True empty=False thinking=False pred=John journeyed to the office.
+[23/128] correct=True empty=False thinking=False pred=John journeyed to the office.
+[24/128] correct=False empty=False thinking=False pred=Sandra moved to the office, the hallway, the bathroom, the bedroom, and the garden.
+[25/128] correct=False empty=False thinking=False pred=Daniel moved to the bathroom.
+[26/128] correct=True empty=False thinking=False pred=Sandra is in the bedroom.
+[27/128] correct=True empty=False thinking=False pred=In the bedroom

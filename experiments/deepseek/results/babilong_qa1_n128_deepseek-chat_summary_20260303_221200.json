@@ -1,0 +1,12 @@
+{
+  "dataset": "/home/himura_shiro/Projects/BabiLong/data/babilong-1k-samples/16k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "deepseek-chat",
+  "num_samples": 128,
+  "correct_count": 87,
+  "accuracy": 0.6796875,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "duration_sec": 507.60707783699036,
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n128_deepseek-chat_predictions_20260303_221200.jsonl"
+}

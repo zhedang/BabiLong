@@ -1,0 +1,128 @@
+{"index": 1, "question": "Where is John?", "target": "hallway", "prediction": "John travelled to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 2, "question": "Where is Mary?", "target": "bathroom", "prediction": "Mary is in the cottage.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 3, "question": "Where is Sandra?", "target": "kitchen", "prediction": "In the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 4, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra is in the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 5, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra is in the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 6, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra travelled to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 7, "question": "Where is Sandra?", "target": "garden", "prediction": "Sandra travelled to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 8, "question": "Where is Daniel?", "target": "hallway", "prediction": "Daniel is in the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 9, "question": "Where is Sandra?", "target": "office", "prediction": "Sandra travelled to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 10, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel journeyed to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 11, "question": "Where is Mary?", "target": "kitchen", "prediction": "Mary is in the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 12, "question": "Where is Mary?", "target": "garden", "prediction": "Mary moved to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 13, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel went to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 14, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary moved to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 15, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary moved to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 16, "question": "Where is John?", "target": "kitchen", "prediction": "John moved to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 17, "question": "Where is John?", "target": "garden", "prediction": "John moved to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 18, "question": "Where is John?", "target": "kitchen", "prediction": "John is in the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 19, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel is in the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 20, "question": "Where is John?", "target": "kitchen", "prediction": "John journeyed to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 21, "question": "Where is Mary?", "target": "hallway", "prediction": "Mary is the chamber maid at the hotel in Lexington where Fred Shackelford is", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 22, "question": "Where is John?", "target": "office", "prediction": "John is in the Rebel camp, specifically in close consultation with Lieutenant Davis and Colonel", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 23, "question": "Where is John?", "target": "office", "prediction": "The office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 24, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra moved to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 25, "question": "Where is Daniel?", "target": "bedroom", "prediction": "Daniel is in the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 26, "question": "Where is Sandra?", "target": "bedroom", "prediction": "Sandra moved to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 27, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary went to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 28, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel is in the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 29, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel journeyed to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 30, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 31, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra moved to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 32, "question": "Where is John?", "target": "office", "prediction": "John moved to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 33, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra travelled to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 34, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra is in the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 35, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra is in the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 36, "question": "Where is Mary?", "target": "office", "prediction": "Mary went back to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 37, "question": "Where is Mary?", "target": "bathroom", "prediction": "Mary went back to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 38, "question": "Where is Mary?", "target": "garden", "prediction": "Mary went back to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 39, "question": "Where is Sandra?", "target": "kitchen", "prediction": "In the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 40, "question": "Where is Daniel?", "target": "bedroom", "prediction": "In the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 41, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra went to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 42, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel moved to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 43, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra went to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 44, "question": "Where is Daniel?", "target": "hallway", "prediction": "Daniel moved to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 45, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel went to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 46, "question": "Where is Mary?", "target": "kitchen", "prediction": "Mary went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 47, "question": "Where is Daniel?", "target": "hallway", "prediction": "The provided text does not contain information about the location of a character named Daniel.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 48, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 49, "question": "Where is John?", "target": "office", "prediction": "John is at Clarendon.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 50, "question": "Where is John?", "target": "bedroom", "prediction": "John moved to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 51, "question": "Where is John?", "target": "bedroom", "prediction": "John journeyed to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 52, "question": "Where is John?", "target": "office", "prediction": "John journeyed to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 53, "question": "Where is John?", "target": "garden", "prediction": "John is in the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 54, "question": "Where is John?", "target": "garden", "prediction": "John is in the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 55, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel journeyed to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 56, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary went to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 57, "question": "Where is Mary?", "target": "kitchen", "prediction": "Mary went to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 58, "question": "Where is Mary?", "target": "hallway", "prediction": "Mary is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 59, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel is in the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 60, "question": "Where is Sandra?", "target": "hallway", "prediction": "In the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 61, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra went back to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 62, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel travelled to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 63, "question": "Where is Sandra?", "target": "bathroom", "prediction": "In the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 64, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel went back to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 65, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel went back to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 66, "question": "Where is John?", "target": "kitchen", "prediction": "John went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 67, "question": "Where is John?", "target": "kitchen", "prediction": "John went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 68, "question": "Where is Daniel?", "target": "bathroom", "prediction": "Daniel went to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 69, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel went to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 70, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel went to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 71, "question": "Where is Mary?", "target": "garden", "prediction": "Mary is in the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 72, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 73, "question": "Where is Mary?", "target": "garden", "prediction": "Mary journeyed to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 74, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 75, "question": "Where is Mary?", "target": "bathroom", "prediction": "Mary is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 76, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 77, "question": "Where is John?", "target": "kitchen", "prediction": "John travelled to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 78, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 79, "question": "Where is Daniel?", "target": "hallway", "prediction": "Daniel went back to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 80, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel went back to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 81, "question": "Where is John?", "target": "garden", "prediction": "John travelled to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 82, "question": "Where is John?", "target": "bathroom", "prediction": "John travelled to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 83, "question": "Where is Sandra?", "target": "bedroom", "prediction": "Sandra moved to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 84, "question": "Where is Mary?", "target": "garden", "prediction": "Mary went to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 85, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel went to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 86, "question": "Where is Sandra?", "target": "garden", "prediction": "In the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 87, "question": "Where is Mary?", "target": "garden", "prediction": "Mary is in the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 88, "question": "Where is John?", "target": "hallway", "prediction": "John went to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 89, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 90, "question": "Where is Daniel?", "target": "kitchen", "prediction": "Daniel went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 91, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra went back to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 92, "question": "Where is John?", "target": "bathroom", "prediction": "John journeyed to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 93, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra moved to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 94, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra is in the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 95, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra travelled to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 96, "question": "Where is John?", "target": "kitchen", "prediction": "John travelled to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 97, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra moved to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 98, "question": "Where is Mary?", "target": "kitchen", "prediction": "Mary is in the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 99, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary is in the Goblin-cave (also referred to as the grot or", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 100, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary journeyed to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 101, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary travelled to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 102, "question": "Where is Sandra?", "target": "bathroom", "prediction": "Sandra went to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 103, "question": "Where is Mary?", "target": "office", "prediction": "Mary travelled to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 104, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel travelled to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 105, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel travelled to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 106, "question": "Where is Mary?", "target": "hallway", "prediction": "Mary moved to the hallway.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 107, "question": "Where is Daniel?", "target": "bedroom", "prediction": "Daniel is in Nerac.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 108, "question": "Where is Daniel?", "target": "bathroom", "prediction": "Daniel travelled to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 109, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel travelled to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 110, "question": "Where is John?", "target": "bedroom", "prediction": "John is at the Lorenz house, specifically in the kitchen, where he is", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 111, "question": "Where is Daniel?", "target": "bathroom", "prediction": "Daniel is at Culvert House.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 112, "question": "Where is Daniel?", "target": "bathroom", "prediction": "Daniel went to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 113, "question": "Where is John?", "target": "kitchen", "prediction": "John is in the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 114, "question": "Where is John?", "target": "hallway", "prediction": "John is sitting on a bench in the hall outside the operating room.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 115, "question": "Where is Mary?", "target": "kitchen", "prediction": "Mary moved to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 116, "question": "Where is Sandra?", "target": "garden", "prediction": "Sandra went back to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 117, "question": "Where is John?", "target": "office", "prediction": "John moved to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 118, "question": "Where is Mary?", "target": "kitchen", "prediction": "Mary went back to the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 119, "question": "Where is Daniel?", "target": "bathroom", "prediction": "Huntingdon", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 120, "question": "Where is Daniel?", "target": "office", "prediction": "Daniel travelled to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 121, "question": "Where is Daniel?", "target": "bedroom", "prediction": "Daniel is in the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 122, "question": "Where is Mary?", "target": "bathroom", "prediction": "Mary journeyed to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 123, "question": "Where is Daniel?", "target": "bedroom", "prediction": "Daniel travelled to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 124, "question": "Where is Daniel?", "target": "hallway", "prediction": "Daniel travelled to the bedroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 125, "question": "Where is Mary?", "target": "bedroom", "prediction": "Mary journeyed to the bathroom.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 126, "question": "Where is Sandra?", "target": "office", "prediction": "Sandra travelled to the office.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}
+{"index": 127, "question": "Where is John?", "target": "garden", "prediction": "In the kitchen.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": false}
+{"index": 128, "question": "Where is Daniel?", "target": "garden", "prediction": "Daniel went to the garden.", "prediction_is_empty": false, "thinking": null, "api_error": null, "correct": true}

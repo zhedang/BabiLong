@@ -1,0 +1,7 @@
+RUN_ID=qa1_16k_qwen35_122b_ctx24k_np16_20260305_095806
+LOG_FILE=/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-122b/logs/run_babilong_qwen35_122b_inhibit_qa1_16k_qwen35_122b_ctx24k_np16_20260305_095806.log
+CHECKPOINT_EVERY=1
+RESUME=1
+OLLAMA_NUM_PARALLEL=1
+OLLAMA_MAX_LOADED_MODELS=1
+Failed to connect to bus: Operation not permitted

@@ -1,0 +1,15 @@
+{
+  "dataset": "data/babilong-1k-samples/16k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "qwen3.5:4b",
+  "mode": "no_think",
+  "num_ctx": 24576,
+  "num_samples": 128,
+  "correct_count": 50,
+  "accuracy": 0.390625,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "thinking_not_none_count": 0,
+  "duration_sec": 1839.0114176273346,
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-4b/results/babilong_qa1_n128_qwen3.5:4b_no_think_ctx24576_predictions_20260303_231955.jsonl"
+}

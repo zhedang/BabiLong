@@ -1,0 +1,20 @@
+{
+  "dataset": "data/babilong-1k-samples/1k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "gpt20:latest",
+  "mode": "think_low",
+  "num_ctx": 24576,
+  "num_predict": 256,
+  "num_samples": 128,
+  "correct_count": 115,
+  "accuracy": 0.8984375,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "thinking_not_none_count": 128,
+  "duration_sec": 238.33533573150635,
+  "completed_samples": 128,
+  "is_complete": true,
+  "checkpoint_every": 8,
+  "run_id": "qa1_1k_gpt20_ctx24k_np256_thinklow_20260305_154847",
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/gpt-oss-20b/results/babilong_qa1_n128_gpt20:latest_think_low_predictions_qa1_1k_gpt20_ctx24k_np256_thinklow_20260305_154847.jsonl"
+}

@@ -1,0 +1,26 @@
+[1/10] correct=True empty=False pred=John is in the hallway.
+[2/10] correct=True empty=False pred=Mary is in the bathroom.
+[3/10] correct=True empty=False pred=Sandra is in the kitchen.
+[4/10] correct=True empty=False pred=Sandra is in the hallway.
+[5/10] correct=True empty=False pred=Sandra is in the kitchen.
+[6/10] correct=True empty=False pred=Sandra is in the hallway.
+[7/10] correct=True empty=False pred=Sandra is in the garden.
+[8/10] correct=True empty=False pred=hallway
+[9/10] correct=True empty=False pred=Sandra is in the office.
+[10/10] correct=True empty=False pred=Daniel is in the office.
+
+=== Summary ===
+{
+  "dataset": "/home/himura_shiro/Projects/BabiLong/data/babilong-1k-samples/1k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "deepseek-chat",
+  "num_samples": 10,
+  "correct_count": 10,
+  "accuracy": 1.0,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "duration_sec": 20.1428484916687,
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n10_deepseek-chat_predictions_20260303_220000.jsonl"
+}
+Saved predictions: /home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n10_deepseek-chat_predictions_20260303_220000.jsonl
+Saved summary: /home/himura_shiro/Projects/BabiLong/experiments/deepseek/results/babilong_qa1_n10_deepseek-chat_summary_20260303_220000.json

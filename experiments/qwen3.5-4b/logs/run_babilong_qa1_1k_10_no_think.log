@@ -1,0 +1,28 @@
+[1/10] correct=True empty=False thinking=False pred=hallway
+[2/10] correct=True empty=False thinking=False pred=Mary is in the bathroom.
+[3/10] correct=True empty=False thinking=False pred=The context states: "Sandra journeyed to the kitchen."
+[4/10] correct=False empty=False thinking=False pred=kitchen
+[5/10] correct=True empty=False thinking=False pred=Sandra is in the kitchen.
+[6/10] correct=False empty=False thinking=False pred=Sandra attended school, went to the kitchen, and the hallway.
+[7/10] correct=False empty=False thinking=False pred=In the kitchen, the hallway, and the garden.
+[8/10] correct=True empty=False thinking=False pred=hallway
+[9/10] correct=True empty=False thinking=False pred=The office
+[10/10] correct=True empty=False thinking=False pred=Daniel is in the office.
+
+=== Summary ===
+{
+  "dataset": "/home/himura_shiro/Projects/BabiLong/data/babilong-1k-samples/1k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "qwen3.5:4b",
+  "mode": "no_think",
+  "num_samples": 10,
+  "correct_count": 7,
+  "accuracy": 0.7,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "thinking_not_none_count": 0,
+  "duration_sec": 12.70513129234314,
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-4b/results/babilong_qa1_n10_qwen3.5:4b_no_think_predictions_20260303_222342.jsonl"
+}
+Saved predictions: /home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-4b/results/babilong_qa1_n10_qwen3.5:4b_no_think_predictions_20260303_222342.jsonl
+Saved summary: /home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-4b/results/babilong_qa1_n10_qwen3.5:4b_no_think_summary_20260303_222342.json

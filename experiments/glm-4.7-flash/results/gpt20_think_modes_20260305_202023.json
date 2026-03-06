@@ -1,0 +1,51 @@
+{
+  "model": "glm-4.7-flash:latest",
+  "num_ctx": 24576,
+  "num_predict": 24,
+  "prompt": "Reply with exactly one word: OK",
+  "tested_modes": [
+    "false",
+    "true",
+    "low",
+    "high"
+  ],
+  "rows": [
+    {
+      "think": false,
+      "ok": true,
+      "error": null,
+      "content_preview": "OK",
+      "content_empty": false,
+      "thinking_is_none": true,
+      "duration_sec": 5.891
+    },
+    {
+      "think": true,
+      "ok": true,
+      "error": null,
+      "content_preview": "",
+      "content_empty": true,
+      "thinking_is_none": false,
+      "duration_sec": 0.592
+    },
+    {
+      "think": "low",
+      "ok": false,
+      "error": "ResponseError: think value \"low\" is not supported for this model (status code: 400)",
+      "content_preview": "",
+      "content_empty": true,
+      "thinking_is_none": true,
+      "duration_sec": 0.081
+    },
+    {
+      "think": "high",
+      "ok": false,
+      "error": "ResponseError: think value \"high\" is not supported for this model (status code: 400)",
+      "content_preview": "",
+      "content_empty": true,
+      "thinking_is_none": true,
+      "duration_sec": 0.081
+    }
+  ],
+  "timestamp": "2026-03-05T20:20:23"
+}

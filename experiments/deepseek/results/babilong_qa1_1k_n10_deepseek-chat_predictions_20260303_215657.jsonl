@@ -1,0 +1,10 @@
+{"index": 1, "question": "Where is John?", "target": "hallway", "prediction": "hallway", "prediction_is_empty": false, "api_error": null, "em": 1.0, "f1": 1.0}
+{"index": 2, "question": "Where is Mary?", "target": "bathroom", "prediction": "Mary is in the bathroom.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 3, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra is in the kitchen.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 4, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra is in the hallway.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 5, "question": "Where is Sandra?", "target": "kitchen", "prediction": "Sandra is in the kitchen.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 6, "question": "Where is Sandra?", "target": "hallway", "prediction": "Sandra is in the hallway.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 7, "question": "Where is Sandra?", "target": "garden", "prediction": "Sandra is in the garden.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 8, "question": "Where is Daniel?", "target": "hallway", "prediction": "hallway", "prediction_is_empty": false, "api_error": null, "em": 1.0, "f1": 1.0}
+{"index": 9, "question": "Where is Sandra?", "target": "office", "prediction": "Sandra is in the office.", "prediction_is_empty": false, "api_error": null, "em": 0.0, "f1": 0.4}
+{"index": 10, "question": "Where is Daniel?", "target": "office", "prediction": "office", "prediction_is_empty": false, "api_error": null, "em": 1.0, "f1": 1.0}

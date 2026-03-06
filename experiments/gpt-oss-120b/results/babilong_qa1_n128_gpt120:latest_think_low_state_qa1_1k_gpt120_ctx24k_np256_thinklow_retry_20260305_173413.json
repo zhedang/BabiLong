@@ -1,0 +1,11 @@
+{
+  "run_id": "qa1_1k_gpt120_ctx24k_np256_thinklow_retry_20260305_173413",
+  "run_tag": "babilong_qa1_n128_gpt120:latest_think_low",
+  "last_completed_index": 128,
+  "completed_samples": 128,
+  "num_samples": 128,
+  "checkpoint_every": 8,
+  "summary_file": "/home/himura_shiro/Projects/BabiLong/experiments/gpt-oss-120b/results/babilong_qa1_n128_gpt120:latest_think_low_summary_qa1_1k_gpt120_ctx24k_np256_thinklow_retry_20260305_173413.json",
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/gpt-oss-120b/results/babilong_qa1_n128_gpt120:latest_think_low_predictions_qa1_1k_gpt120_ctx24k_np256_thinklow_retry_20260305_173413.jsonl",
+  "updated_at": "2026-03-05T17:47:20"
+}

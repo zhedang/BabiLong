@@ -1,0 +1,148 @@
+[1/128] correct=True empty=False thinking=False pred=in the hallway
+[2/128] correct=True empty=False thinking=False pred=bathroom
+[3/128] correct=True empty=False thinking=False pred=kitchen
+[4/128] correct=True empty=False thinking=False pred=Sandra travelled to the hallway.
+[5/128] correct=True empty=False thinking=False pred=kitchen
+[6/128] correct=False empty=False thinking=False pred=Sandra travelled to the kitchen. Sandra travelled to the hallway.
+[7/128] correct=True empty=False thinking=False pred=Sandra moved to the garden.
+[8/128] correct=True empty=False thinking=False pred=hallway
+[9/128] correct=False empty=False thinking=False pred=Sandra travelled to the kitchen. Sandra travelled to the hallway. Sandra moved to
+[10/128] correct=True empty=False thinking=False pred=office
+[11/128] correct=True empty=False thinking=False pred=in the kitchen
+[12/128] correct=False empty=False thinking=False pred=the kitchen
+[13/128] correct=True empty=False thinking=False pred=Daniel went to the office.
+[14/128] correct=False empty=False thinking=False pred=kitchen
+[15/128] correct=True empty=False thinking=False pred=bedroom
+[16/128] correct=False empty=False thinking=False pred=John is in the hallway and the kitchen.
+[17/128] correct=True empty=False thinking=False pred=the garden
+[18/128] correct=False empty=False thinking=False pred=the garden
+[19/128] correct=True empty=False thinking=False pred=Daniel journeyed to the office.
+[20/128] correct=False empty=False thinking=False pred=hallway
+[21/128] correct=False empty=False thinking=False pred=Mary journeyed to the kitchen.
+[22/128] correct=True empty=False thinking=False pred=John journeyed to the office.
+[23/128] correct=True empty=False thinking=False pred=the office
+[24/128] correct=True empty=False thinking=False pred=hallway
+[25/128] correct=True empty=False thinking=False pred=bedroom
+[26/128] correct=True empty=False thinking=False pred=In the bedroom.
+[27/128] correct=False empty=False thinking=False pred=Mary went back to the kitchen.
+[28/128] correct=True empty=False thinking=False pred=Daniel travelled to the kitchen.
+[29/128] correct=True empty=False thinking=False pred=kitchen
+[30/128] correct=True empty=False thinking=False pred=kitchen
+[31/128] correct=True empty=False thinking=False pred=Sandra moved to the hallway.
+[32/128] correct=True empty=False thinking=False pred=in the office
+[33/128] correct=True empty=False thinking=False pred=kitchen
+[34/128] correct=True empty=False thinking=False pred=kitchen
+[35/128] correct=True empty=False thinking=False pred=bathroom
+[36/128] correct=True empty=False thinking=False pred=Mary moved to the office.
+[37/128] correct=False empty=False thinking=False pred=in the thicket
+[38/128] correct=True empty=False thinking=False pred=Mary went to the garden.
+[39/128] correct=True empty=False thinking=False pred=kitchen
+[40/128] correct=True empty=False thinking=False pred=bedroom
+[41/128] correct=False empty=False thinking=False pred=Sandra went to the office. Sandra travelled to the bathroom.
+[42/128] correct=True empty=False thinking=False pred=Daniel moved to the garden.
+[43/128] correct=False empty=False thinking=False pred=In the office
+[44/128] correct=True empty=False thinking=False pred=Daniel went back to the hallway.
+[45/128] correct=True empty=False thinking=False pred=garden
+[46/128] correct=True empty=False thinking=False pred=kitchen
+[47/128] correct=True empty=False thinking=False pred=Daniel journeyed to the hallway.
+[48/128] correct=True empty=False thinking=False pred=bathroom
+[49/128] correct=True empty=False thinking=False pred=office
+[50/128] correct=True empty=False thinking=False pred=bedroom
+[51/128] correct=False empty=False thinking=False pred=John journeyed to the hallway.
+[52/128] correct=False empty=False thinking=False pred=John journeyed to the hallway. John journeyed to the bedroom. John journey
+[53/128] correct=False empty=False thinking=False pred=John journeyed to the hallway. John journeyed to the bedroom. John journey
+[54/128] correct=False empty=False thinking=False pred=office
+[55/128] correct=True empty=False thinking=False pred=Daniel went back to the kitchen.
+[56/128] correct=True empty=False thinking=False pred=Mary went to the bedroom.
+[57/128] correct=False empty=False thinking=False pred=Mary went to the bedroom.
+[58/128] correct=True empty=False thinking=False pred=hallway
+[59/128] correct=True empty=False thinking=False pred=garden
+[60/128] correct=True empty=False thinking=False pred=hallway
+[61/128] correct=True empty=False thinking=False pred=in the hallway
+[62/128] correct=True empty=False thinking=False pred=the office
+[63/128] correct=True empty=False thinking=False pred=bathroom
+[64/128] correct=True empty=False thinking=False pred=Daniel went back to the garden.
+[65/128] correct=True empty=False thinking=False pred=garden
+[66/128] correct=True empty=False thinking=False pred=In the kitchen
+[67/128] correct=True empty=False thinking=False pred=in the kitchen
+[68/128] correct=True empty=False thinking=False pred=Daniel went to the bathroom.
+[69/128] correct=False empty=False thinking=False pred=kitchen
+[70/128] correct=False empty=False thinking=False pred=Daniel went to the kitchen.
+[71/128] correct=True empty=False thinking=False pred=the garden
+[72/128] correct=False empty=False thinking=False pred=bedroom
+[73/128] correct=False empty=False thinking=False pred=kitchen
+[74/128] correct=True empty=False thinking=False pred=Mary went to the bedroom.
+[75/128] correct=True empty=False thinking=False pred=bathroom
+[76/128] correct=True empty=False thinking=False pred=in the kitchen
+[77/128] correct=True empty=False thinking=False pred=kitchen
+[78/128] correct=True empty=False thinking=False pred=kitchen
+[79/128] correct=False empty=False thinking=False pred=kitchen
+[80/128] correct=True empty=False thinking=False pred=the office
+[81/128] correct=True empty=False thinking=False pred=at the garden
+[82/128] correct=False empty=False thinking=False pred=the garden
+[83/128] correct=True empty=False thinking=False pred=Sandra went back to the bedroom.
+[84/128] correct=True empty=False thinking=False pred=in the garden
+[85/128] correct=True empty=False thinking=False pred=office
+[86/128] correct=True empty=False thinking=False pred=in the garden
+[87/128] correct=True empty=False thinking=False pred=the garden
+[88/128] correct=True empty=False thinking=False pred=hallway
+[89/128] correct=True empty=False thinking=False pred=kitchen
+[90/128] correct=True empty=False thinking=False pred=kitchen
+[91/128] correct=False empty=False thinking=False pred=Sandra is in the kitchen and later in the bathroom.
+[92/128] correct=True empty=False thinking=False pred=in the bathroom
+[93/128] correct=True empty=False thinking=False pred=hallway
+[94/128] correct=True empty=False thinking=False pred=bathroom
+[95/128] correct=True empty=False thinking=False pred=bathroom
+[96/128] correct=True empty=False thinking=False pred=In the kitchen
+[97/128] correct=True empty=False thinking=False pred=kitchen
+[98/128] correct=True empty=False thinking=False pred=kitchen
+[99/128] correct=False empty=False thinking=False pred=kitchen
+[100/128] correct=True empty=False thinking=False pred=bedroom
+[101/128] correct=False empty=False thinking=False pred=Mary travelled to the garden. Mary moved to the bedroom.
+[102/128] correct=True empty=False thinking=False pred=Sandra went to the bathroom.
+[103/128] correct=True empty=False thinking=False pred=office
+[104/128] correct=False empty=False thinking=False pred=hallway
+[105/128] correct=True empty=False thinking=False pred=Daniel went to the garden.
+[106/128] correct=False empty=False thinking=False pred=Mary journeyed to the office. Mary moved to the hallway.
+[107/128] correct=True empty=False thinking=False pred=Daniel travelled to the bedroom.
+[108/128] correct=True empty=False thinking=False pred=Daniel travelled to the bathroom.
+[109/128] correct=True empty=False thinking=False pred=Daniel moved to the office.
+[110/128] correct=True empty=False thinking=False pred=bedroom
+[111/128] correct=False empty=False thinking=False pred=Daniel went to the office.
+[112/128] correct=True empty=False thinking=False pred=bathroom
+[113/128] correct=True empty=False thinking=False pred=kitchen
+[114/128] correct=True empty=False thinking=False pred=hallway
+[115/128] correct=True empty=False thinking=False pred=kitchen
+[116/128] correct=True empty=False thinking=False pred=in the garden
+[117/128] correct=True empty=False thinking=False pred=in the office
+[118/128] correct=True empty=False thinking=False pred=kitchen
+[119/128] correct=True empty=False thinking=False pred=Daniel travelled to the bathroom.
+[120/128] correct=False empty=False thinking=False pred=Daniel travelled to the bathroom.
+[121/128] correct=True empty=False thinking=False pred=Daniel travelled to the bedroom.
+[122/128] correct=True empty=False thinking=False pred=bathroom
+[123/128] correct=True empty=False thinking=False pred=Daniel travelled to the bedroom.
+[124/128] correct=True empty=False thinking=False pred=hallway
+[125/128] correct=False empty=False thinking=False pred=kitchen
+[126/128] correct=True empty=False thinking=False pred=Sandra travelled to the office.
+[127/128] correct=True empty=False thinking=False pred=the garden
+[128/128] correct=True empty=False thinking=False pred=in the garden
+
+=== Summary ===
+{
+  "dataset": "/home/himura_shiro/Projects/BabiLong/data/babilong-1k-samples/1k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "qwen3.5:35b",
+  "mode": "no_think",
+  "num_ctx": 32768,
+  "num_predict": 16,
+  "num_samples": 128,
+  "correct_count": 97,
+  "accuracy": 0.7578125,
+  "empty_prediction_count": 0,
+  "api_error_count": 0,
+  "thinking_not_none_count": 0,
+  "duration_sec": 190.2496988773346,
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-35b/results/babilong_qa1_n128_qwen3.5:35b_no_think_predictions_20260305_080129.jsonl"
+}
+Saved predictions: /home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-35b/results/babilong_qa1_n128_qwen3.5:35b_no_think_predictions_20260305_080129.jsonl
+Saved summary: /home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-35b/results/babilong_qa1_n128_qwen3.5:35b_no_think_summary_20260305_080129.json

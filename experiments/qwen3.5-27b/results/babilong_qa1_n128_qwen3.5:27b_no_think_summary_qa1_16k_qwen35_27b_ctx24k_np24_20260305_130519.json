@@ -1,0 +1,20 @@
+{
+  "dataset": "data/babilong-1k-samples/16k/qa1-00000-of-00001.parquet",
+  "task": "qa1",
+  "model": "qwen3.5:27b",
+  "mode": "no_think",
+  "num_ctx": 24576,
+  "num_predict": 24,
+  "num_samples": 128,
+  "correct_count": 87,
+  "accuracy": 0.6796875,
+  "empty_prediction_count": 1,
+  "api_error_count": 1,
+  "thinking_not_none_count": 0,
+  "duration_sec": 8099.563275337219,
+  "completed_samples": 128,
+  "is_complete": true,
+  "checkpoint_every": 8,
+  "run_id": "qa1_16k_qwen35_27b_ctx24k_np24_20260305_130519",
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-27b/results/babilong_qa1_n128_qwen3.5:27b_no_think_predictions_qa1_16k_qwen35_27b_ctx24k_np24_20260305_130519.jsonl"
+}

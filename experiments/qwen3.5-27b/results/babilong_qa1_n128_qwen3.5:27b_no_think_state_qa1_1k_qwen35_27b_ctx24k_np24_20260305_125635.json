@@ -1,0 +1,11 @@
+{
+  "run_id": "qa1_1k_qwen35_27b_ctx24k_np24_20260305_125635",
+  "run_tag": "babilong_qa1_n128_qwen3.5:27b_no_think",
+  "last_completed_index": 128,
+  "completed_samples": 128,
+  "num_samples": 128,
+  "checkpoint_every": 8,
+  "summary_file": "/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-27b/results/babilong_qa1_n128_qwen3.5:27b_no_think_summary_qa1_1k_qwen35_27b_ctx24k_np24_20260305_125635.json",
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/qwen3.5-27b/results/babilong_qa1_n128_qwen3.5:27b_no_think_predictions_qa1_1k_qwen35_27b_ctx24k_np24_20260305_125635.jsonl",
+  "updated_at": "2026-03-05T13:04:09"
+}

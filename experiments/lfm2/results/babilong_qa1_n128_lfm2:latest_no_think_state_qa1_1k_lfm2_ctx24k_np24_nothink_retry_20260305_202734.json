@@ -1,0 +1,11 @@
+{
+  "run_id": "qa1_1k_lfm2_ctx24k_np24_nothink_retry_20260305_202734",
+  "run_tag": "babilong_qa1_n128_lfm2:latest_no_think",
+  "last_completed_index": 128,
+  "completed_samples": 128,
+  "num_samples": 128,
+  "checkpoint_every": 8,
+  "summary_file": "/home/himura_shiro/Projects/BabiLong/experiments/lfm2/results/babilong_qa1_n128_lfm2:latest_no_think_summary_qa1_1k_lfm2_ctx24k_np24_nothink_retry_20260305_202734.json",
+  "predictions_file": "/home/himura_shiro/Projects/BabiLong/experiments/lfm2/results/babilong_qa1_n128_lfm2:latest_no_think_predictions_qa1_1k_lfm2_ctx24k_np24_nothink_retry_20260305_202734.jsonl",
+  "updated_at": "2026-03-05T20:29:19"
+}

@@ -1,0 +1,9 @@
+# Large local datasets
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local tool metadata
+.claude/

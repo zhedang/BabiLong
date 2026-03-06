@@ -1,0 +1,51 @@
+{
+  "model": "gpt20:latest",
+  "num_ctx": 24576,
+  "num_predict": 24,
+  "prompt": "Reply with exactly one word: OK",
+  "tested_modes": [
+    "false",
+    "true",
+    "low",
+    "high"
+  ],
+  "rows": [
+    {
+      "think": false,
+      "ok": true,
+      "error": null,
+      "content_preview": "",
+      "content_empty": true,
+      "thinking_is_none": false,
+      "duration_sec": 60.378
+    },
+    {
+      "think": true,
+      "ok": true,
+      "error": null,
+      "content_preview": "",
+      "content_empty": true,
+      "thinking_is_none": false,
+      "duration_sec": 0.831
+    },
+    {
+      "think": "low",
+      "ok": true,
+      "error": null,
+      "content_preview": "OK",
+      "content_empty": false,
+      "thinking_is_none": false,
+      "duration_sec": 0.704
+    },
+    {
+      "think": "high",
+      "ok": true,
+      "error": null,
+      "content_preview": "",
+      "content_empty": true,
+      "thinking_is_none": false,
+      "duration_sec": 0.761
+    }
+  ],
+  "timestamp": "2026-03-05T15:41:41"
+}
